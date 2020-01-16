@@ -1,13 +1,14 @@
 # Message_Board
 基于CodeIgniter &amp; Bootstrap 做的一个小web app。
 
-下载安装CodeIgniter框架；
+下载安装[CodeIgniter](https://github.com/bcit-ci/CodeIgniter/)框架；
 
 只需要其中的application、system文件夹和index.php文件；
 
 将此controllers、models、views文件夹覆盖application中的同名文件夹；
 
 找到/application/config/database.php文件进行数据库连接设置，database设置为gbooks，其他按照实际情况填写(主要以下四个)；
+
 ![pic](https://github.com/drrrrrragon/Message_Board/blob/master/shotcuts/db.png)
 
 将sql文件导入mysql数据库；
